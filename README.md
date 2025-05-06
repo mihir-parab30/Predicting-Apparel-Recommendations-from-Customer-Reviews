@@ -40,10 +40,10 @@ Fashion retailers struggle to understand what makes customers recommend or not r
 ## 📊 Project Preview
 
 ### 🔹 Confusion Matrix – Logistic Regression
-![Logistic CM](Screenshot_Logistic_CM.png)
+![Logistic CM](/Logistic_CM.png)
 
 ### 🔹 Confusion Matrix – SVM
-![SVM CM](Screenshot_SVM_CM.png)
+![SVM CM](/SVM_CM.png)
 
 ---
 
